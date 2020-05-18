@@ -6,9 +6,11 @@ const Login = () => {
      return (
           <Fragment>
                <Header />
-                   <form>
+               <div>
+                  <form>
                         Hola soy formulario
                    </form>
+               </div>
                <Footer />
           </Fragment>
      );
